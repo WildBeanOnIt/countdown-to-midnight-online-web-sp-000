@@ -1,5 +1,5 @@
 #write your code here
-countdown = 10
+
 
 def countdown(countdown)
     while countdown >= 10
@@ -7,5 +7,3 @@ def countdown(countdown)
     puts "#{countdown} SECOND (S)"
   end
 end
-
-puts "#{countdown} SECOND (S) !"
